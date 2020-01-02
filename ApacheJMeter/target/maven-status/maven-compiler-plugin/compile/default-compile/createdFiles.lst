@@ -1,0 +1,6 @@
+cn\i2cool\jmeter\protocol\amqp\gui\AMQPSamplerGui.class
+cn\i2cool\jmeter\protocol\amqp\AMQPSampler.class
+cn\i2cool\jmeter\protocol\amqp\gui\AMQPPublisherGui.class
+cn\i2cool\jmeter\protocol\amqp\AMQPConsumer.class
+cn\i2cool\jmeter\protocol\amqp\AMQPPublisher.class
+cn\i2cool\jmeter\protocol\amqp\gui\AMQPConsumerGui.class

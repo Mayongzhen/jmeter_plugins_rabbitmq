@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="ApacheJMeter:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ApacheJMeter_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ApacheJMeter.jar">
+        <element id="module-output" name="ApacheJMeter" />
+      </element>
+    </root>
+  </artifact>
+</component>
