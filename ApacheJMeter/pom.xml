@@ -12,7 +12,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jmeter-version>4.0</jmeter-version>
-		<rabbit-version>5.1.2</rabbit-version>
+		<rabbit-version>5.4.0</rabbit-version>
 	</properties>
 	<dependencies>
 		<dependency>
