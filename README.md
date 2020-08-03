@@ -1,7 +1,7 @@
 # jmeter_plugins_rabbitmq
 jmeter_plugins_rabbitmq
 # Jmeter RabbitMQ Test Plugin
-
+jmeter支持mq消息
 ## 说明
 基于 [JMeter-Rabbit-AMQP](https://github.com/jlavallee/JMeter-Rabbit-AMQP.git)（无法支持新版Rabbit）修改
 
